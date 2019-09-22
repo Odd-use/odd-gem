@@ -2,7 +2,7 @@
   "name": "odd-gem",
   "private": true,
   "description": "Odd:GUI is a Sketch document template that is created to help you get started with structuring GUI/HUI assets.",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "Odduse <info@odduse.com>",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
